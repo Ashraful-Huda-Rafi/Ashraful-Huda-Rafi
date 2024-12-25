@@ -4,7 +4,7 @@
 ###
 As an ethical hacker, I imitate actual attacks to find weaknesses in networks and systems. In order to find vulnerabilities that could be exploited, I have to think like a threat actor. I assist enterprises in fortifying their defenses by evaluating and testing security methods. It's a methodical and proactive way to keep ahead of online dangers.
 
-###Skills:
+### Skills:<br>
 Programing Language: Python, C/C++ , Java, Java Script, Bash <br>
 Cyber Security Tools: Burp Suite, OWASP ZAP, Nikto, WPScan, OpenVas, Nessus, Acunetix, John The Ripper, Nmap,     Shodan, Maltego, OSINT Framework, Metasploit,  Autopsy, Volatility, Wireshark etc.<br>     
 Operating System: Linux, Windows <br>     
