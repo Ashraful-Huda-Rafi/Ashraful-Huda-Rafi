@@ -6,7 +6,7 @@ As an ethical hacker, I imitate actual attacks to find weaknesses in networks an
 
 ### Skills:<br>
 Programing Language: Python, C/C++ , Java, Java Script, Bash <br>
-Cyber Security Tools: Burp Suite, OWASP ZAP, Nikto, WPScan, OpenVas, Nessus, Acunetix, John The Ripper, Nmap, Shodan, Maltego, OSINT Framework, Metasploit, Autopsy, Volatility, Wireshark etc. <br>     
+Cyber Security Tools: Burp Suite, OWASP ZAP, Nikto, WPScan, OpenVas, Nessus, Acunetix, John The Ripper, Nmap, Shodan, Maltego, OSINT Framework, Metasploit, Autopsy, Volatility, Wireshark etc.     
 Operating System: Linux, Windows.     
 Other: Communication, MS-Office.
 
