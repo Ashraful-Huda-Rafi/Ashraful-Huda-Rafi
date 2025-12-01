@@ -2,15 +2,15 @@
 #### Ethical Hacker | Penetration Tester | Security Researcher
 
 ###
-As an ethical hacker, I imitate actual attacks to find weaknesses in networks and systems. In order to find vulnerabilities that could be exploited, I have to think like a threat actor. I assist enterprises in fortifying their defenses by evaluating and testing security methods. It's a methodical and proactive way to keep ahead of online dangers.
+As a penetration tester, I simulate real-world attacks to identify weaknesses in networks and systems. To identify vulnerabilities that could be exploited, I must think like a threat actor. I assist enterprises in fortifying their defenses by evaluating and testing security methods. It's a methodical and proactive way to keep ahead of online dangers.
 
 ### Skills:<br>
 Programing Language: Python, C/C++ , Java, Java Script, Bash <br>
-Cyber Security Tools: Burp Suite, OWASP ZAP, Nikto, WPScan, OpenVas, Nessus, Acunetix, John The Ripper, Nmap, Shodan, Maltego, OSINT Framework, Metasploit, Autopsy, Volatility, Wireshark etc.     
+Cybersecurity Tools: Burp Suite, MobSF, OWASP ZAP, Nikto, WPScan, OpenVAS, Nessus, Acunetix, John the Ripper, Nmap, Shodan, Maltego, OSINT Framework, Metasploit, Wireshark, etc.     
 Operating System: Linux, Windows.     
 Other: Communication, MS-Office.
 
-- 🔭 I’m currently working as a Security Researcher at Intigriti
+- 🔭 I’m currently working as a Security Researcher 
 - 🌱 I’m currently learning Offensive Security 
 
 
